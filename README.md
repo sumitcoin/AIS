@@ -147,3 +147,13 @@ Before publishing:
 ## License
 
 A license has not been specified in this README. Add the appropriate `LICENSE` file and update this section before distributing the project under a chosen license.
+
+## Home hero photo credits
+
+Illustrative stock photos, not photographs of ASHA facilities or students:
+
+- Yan Krukau / Pexels: https://www.pexels.com/photo/students-and-teacher-in-a-classroom-8617771/
+- Mikhail Nilov / Pexels: https://www.pexels.com/photo/a-teacher-teaching-in-the-classroom-8923154/
+- Katerina Holmes / Pexels: https://www.pexels.com/photo/smart-diverse-kids-with-teacher-in-classroom-5905920/
+
+The home search filters the programme cards using programme names and descriptions. An unmatched query shows all programmes with a helpful message.
