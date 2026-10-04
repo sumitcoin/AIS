@@ -13,7 +13,7 @@ const activities=[{icon:FlaskConical,title:'Wonder. Test. Discover.',type:'Scien
 const schoolContact = { phone: '+91 9958584710', tel: 'tel:+919958584710', address: 'L128, Street No 03, New Delhi, Delhi' };
 // Add the school's official profile URLs here to activate the social links.
 // Set this to the official school portal URL when available.
-const schoolPortalUrl = '';
+const schoolPortalUrl = 'https://www.attendogen.com/login';
 // Add the official Play Store, App Store, or APK URL here.
 const mobileAppUrl = '';
 const socialProfiles = [{ name: 'Facebook', url: '' }, { name: 'LinkedIn', url: '' }, { name: 'Instagram', url: '' }];
