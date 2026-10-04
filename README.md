@@ -4,8 +4,6 @@
 
 A school website project built with **React**, designed to help parents, students, and visitors explore Asha International School and access important school information through a clear, welcoming interface.
 
-> This README is a project template. Confirm the features, folder structure, and npm scripts against the repository before publishing.
-
 ## Project Overview
 
 The website brings school information together in one place, with space for academic details, admissions information, announcements, photographs, and contact details. Its intended design supports convenient browsing across mobile phones, tablets, and desktops.
@@ -47,14 +45,14 @@ Add the actual build tool, routing library, UI framework, and backend integratio
 1. Clone the repository. Replace the example URL with the actual repository URL:
 
    ```bash
-   git clone <repository-url> asha-international-school
-   cd asha-international-school
+   git clone <repository-url> AIS
+   cd AIS
    ```
 
 2. Install dependencies:
 
    ```bash
-   npm install
+   npm.cmd install
    ```
 
    If the repository contains a committed `package-lock.json`, use `npm ci` for a reproducible installation.
@@ -62,7 +60,7 @@ Add the actual build tool, routing library, UI framework, and backend integratio
 3. Check the available commands:
 
    ```bash
-   npm run
+   npm.cmd run dev
    ```
 
 4. Start the development server using the script defined in `package.json`:
